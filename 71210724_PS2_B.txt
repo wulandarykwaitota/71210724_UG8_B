@@ -1,0 +1,17 @@
+Buatlah pseudocode untuk menhitung berapa liter air pada gelas D. 
+
+Gelas A = 1000L
+Gelas B = 700L
+Gelas C = 300L
+gelas D = 100L
+
+Dari gelas A mengaliar 1000L namun dikarenakan diberi lubang pada bagian tepi tengah gelas maka,
+ otomatis air yang mengalir dari gelas A kegelas B hanya 500L Saja
+sedangkan gelas B sebelumnya hanya 700L saja jika ditambah 500L maka gelas B menjadi 1200L 
+Dari gelas B mengalir 1200L, dari gelas B ke gelas C 600L 
+Sedangkan gelas C sebelumnya hanya 300L saja jika ditambah 600L maka gelas C menjadi 900L
+Dari gelas C mengalir 900L, dari gelas C ke gelas D 300L 
+sedangkan gelas D sebelumnya hanya 100L saja jika ditambah 300L maka gelas D sekarang menjadi 400L
+
+if
+	tampilan nilai adalah 400L
